@@ -1,0 +1,1 @@
+Apliquei meus conhecimentos em Excel e Power BI para construir um modelo de regressão linear que foi capaz de prever os resultados de faturamento da empresa, estabelecendo recomendações sobre como ela poderá melhorar seus resultados nesse período.
